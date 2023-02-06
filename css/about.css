@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /* RODAPE========== */
+.rodape{
+    font-size: 24px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    color: #000000;
+    background-color: #22d4fd;
+    padding: 24px;
+}
